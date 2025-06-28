@@ -3,10 +3,8 @@
 **Student Name**: Vangapally Santhoshi  
 **Roll Number**: 2023EEA2655  
 **Program**: M.Tech in Control and Automation  
-**Department**: Electrical Engineering  
 **Institute**: IIT Delhi  
-**Thesis Supervisor**: [Insert Supervisor’s Name]
-
+**Thesis Supervisor**: Prof.Shaunak Sen
 ---
 
 ## Overview
