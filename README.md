@@ -17,3 +17,12 @@ This repository contains all relevant files for the M.Tech thesis titled **"Time
 
 ## Structure
 
+023EEA2655_mtp/
+│
+├── code/
+│ ├── dp/ # Contains dynamic programming and interval DP implementations
+│ ├── newton/ # Contains code for Interval Newton Method
+│ └── branch and bound/ # Contains branch-and-bound algorithm files
+│
+├── time_optimal_control_using_interval_analysis.pdf # Final thesis report (main document)
+├── eea232655finalppt.pdf # Final presentation slides
