@@ -17,7 +17,8 @@ Install required packages by running the following in the Julia REPL:
 using Pkg
 Pkg.add(["Pluto", "IntervalArithmetic", "IntervalBoxes", "Plots", "ForwardDiff", "LinearAlgebra"])
 
-## Running the Code
+## Code Setup and Execution
+
 
 Running the Pluto Notebook (Interval Dynamic Programming)
 Launch Julia REPL.
