@@ -20,59 +20,36 @@ Julia (version ≥ 1.9 recommended)
 
 Install required packages by running the following in the Julia REPL:
 
-julia
-Copy
-Edit
 using Pkg
 Pkg.add(["Pluto", "IntervalArithmetic", "IntervalBoxes", "Plots", "ForwardDiff", "LinearAlgebra"])
-📓 Running the Pluto Notebook (Interval Dynamic Programming)
+
+Running the Pluto Notebook (Interval Dynamic Programming)
 Launch Julia REPL.
 
 Run the following commands:
 
-julia
-Copy
-Edit
 using Pluto
 Pluto.run()
 This opens Pluto in your browser.
 
 Click "Open from file" and select:
 
-bash
-Copy
-Edit
 code/dp/interval_dp_notebook.jl
 Run all cells sequentially to reproduce the results.
 
-⚙️ Running the Interval Newton Method
+Running the Interval Newton Method
 Navigate to the directory:
-
-bash
-Copy
-Edit
 code/newton/
 Run the script:
 
-bash
-Copy
-Edit
 julia interval_newton_method.jl
 This script computes and displays validated bounds for the root using the Interval Newton technique.
 
 🔁 Running the Branch-and-Bound Algorithm
 Navigate to:
-
-bash
-Copy
-Edit
 code/branch and bound/
 Execute the solver script:
 
-bash
-Copy
-Edit
 julia branch_and_bound_solver.jl
 This implementation performs validated search for the global minimum time using a branch-and-bound strategy.
 
-📌 Notes
