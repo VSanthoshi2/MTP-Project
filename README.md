@@ -16,7 +16,7 @@ This repository contains all relevant files for the M.Tech thesis titled **"Time
 ## Prerequisites
 Ensure you have the following installed:
 
-Julia (version ≥ 1.9 recommended)
+Julia
 
 Install required packages by running the following in the Julia REPL:
 
