@@ -1,6 +1,6 @@
 # Time-Optimal Control using Interval Analysis
 
-**Student Name**: Vangapally Santhoshi  
+Student Name: Vangapally Santhoshi  
 **Roll Number**: 2023EEA2655  
 **Program**: M.Tech in Control and Automation  
 **Institute**: IIT Delhi  
