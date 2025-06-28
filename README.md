@@ -15,14 +15,3 @@ This repository contains all relevant files for the M.Tech thesis titled **"Time
 
 ---
 
-## Structure
-
-2023EEA2655_mtp/
-│
-├── README.md                      ← You will add this file
-├── code/
-│   ├── dp/
-│   ├── newton/
-│   └── branch and bound/
-├── time_optimal_control_using_interval_analysis.pdf
-└── eea232655finalppt.pdf
