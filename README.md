@@ -47,7 +47,7 @@ Run the script:
 julia interval_newton_method.jl
 This script computes and displays validated bounds for the root using the Interval Newton technique.
 
-🔁 Running the Branch-and-Bound Algorithm
+Running the Branch-and-Bound Algorithm
 Navigate to:
 code/branch and bound/
 Execute the solver script:
